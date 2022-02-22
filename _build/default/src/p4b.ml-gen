@@ -1,0 +1,22 @@
+(** @canonical P4b.Eval *)
+module Eval = P4b__Eval
+
+
+(** @canonical P4b.Lexer *)
+module Lexer = P4b__Lexer
+
+
+(** @canonical P4b.MicroCamlTypes *)
+module MicroCamlTypes = P4b__MicroCamlTypes
+
+
+(** @canonical P4b.Parser *)
+module Parser = P4b__Parser
+
+
+(** @canonical P4b.TokenTypes *)
+module TokenTypes = P4b__TokenTypes
+
+
+(** @canonical P4b.Utils *)
+module Utils = P4b__Utils

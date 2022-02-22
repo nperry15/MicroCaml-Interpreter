@@ -1,0 +1,12 @@
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Start test pbt:1:test_simple_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: 
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: law test_simple_let: 1000 relevant cases (1000 total)
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: 
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Test pbt:1:test_simple_let is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: End test pbt:1:test_simple_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Start test pbt:3:test_operator_precedence.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: 
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: law test_operator_precedence: 1000 relevant cases (1000 total)
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: 
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Test pbt:3:test_operator_precedence is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: End test pbt:3:test_operator_precedence.

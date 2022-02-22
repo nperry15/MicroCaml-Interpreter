@@ -1,0 +1,103 @@
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Runner: processes
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Chooser: simple
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration suite_name = "pbt"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration cache_filename = "/Users/nicholas/cmsc330fall21/project4b/_build/default/test/pbt/oUnit-$(suite_name).cache"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration run_gc_full_major = "true"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration seed = "-1"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration display = "true"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration results_style_1_X = "false"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration testdata_dir = "none"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration health_check_interval = "1."
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration verbose = "false"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration chooser = "simple"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration output_html_dir = "none"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration processes_kill_period = "5."
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration runner = "processes"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration shards = "2"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration processes_grace_period = "5."
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration qcheck_verbose = "true"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration log_encoding = "utf-8"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration output_junit_file = "none"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration ci = "false"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration qcheck_long = "false"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration output_file = "/Users/nicholas/cmsc330fall21/project4b/_build/default/test/pbt/oUnit-$(suite_name)-$(shard_id).log"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Using 2 workers maximum.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Starting worker number Nicholass-MacBook-Pro.local#01.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Worker Nicholass-MacBook-Pro.local#01 started.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Starting worker number Nicholass-MacBook-Pro.local#02.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Worker Nicholass-MacBook-Pro.local#02 started.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: pbt:1:test_simple_let, pbt:0:test_simple_def.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Start test pbt:0:test_simple_def.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: pbt:1:test_simple_let, pbt:0:test_simple_def.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Start test pbt:1:test_simple_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: pbt:1:test_simple_let, pbt:0:test_simple_def.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: 
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: law test_simple_def: 1000 relevant cases (1000 total)
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: 
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: pbt:1:test_simple_let, pbt:0:test_simple_def.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Test pbt:0:test_simple_def is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: pbt:1:test_simple_let, pbt:0:test_simple_def.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: End test pbt:0:test_simple_def.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: pbt:1:test_simple_let, pbt:0:test_simple_def.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Start test pbt:2:test_sum_small_ints.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: 
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: law test_simple_let: 1000 relevant cases (1000 total)
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: 
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Test pbt:1:test_simple_let is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: End test pbt:1:test_simple_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: pbt:2:test_sum_small_ints, pbt:1:test_simple_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Still 2 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Start test pbt:3:test_operator_precedence.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Still 2 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: 
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: law test_sum_small_ints: 1000 relevant cases (1000 total)
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: 
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Still 2 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Test pbt:2:test_sum_small_ints is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Still 2 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: End test pbt:2:test_sum_small_ints.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Still 2 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Still 1 tests running : pbt:3:test_operator_precedence.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 1 tests running: pbt:3:test_operator_precedence.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: 
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: law test_operator_precedence: 1000 relevant cases (1000 total)
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: 
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Still 1 tests running : pbt:3:test_operator_precedence.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 1 tests running: pbt:3:test_operator_precedence.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Test pbt:3:test_operator_precedence is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Still 1 tests running : pbt:3:test_operator_precedence.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 1 tests running: pbt:3:test_operator_precedence.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: End test pbt:3:test_operator_precedence.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Still 1 tests running : pbt:3:test_operator_precedence.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 1 tests running: pbt:3:test_operator_precedence.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 0 tests running: .
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Worker Nicholass-MacBook-Pro.local#01 has ended.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Worker Nicholass-MacBook-Pro.local#02 has ended.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Used 2 worker during test execution.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Run 2 tests with shard Nicholass-MacBook-Pro.local#01.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Run 2 tests with shard Nicholass-MacBook-Pro.local#02.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Check health of shard Nicholass-MacBook-Pro.local#01, 5 times.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Check health of shard Nicholass-MacBook-Pro.local#02, 1 times.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: ==============
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Summary:
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test pbt:3:test_operator_precedence is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test pbt:2:test_sum_small_ints is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test pbt:1:test_simple_let is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test pbt:0:test_simple_def is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Ran: 4 tests in: 0.16 seconds.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Cases: 4.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Tried: 4.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Errors: 0.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Failures: 0.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Skip: 0.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Todo: 0.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Timeout: 0.

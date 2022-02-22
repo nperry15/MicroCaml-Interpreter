@@ -1,0 +1,258 @@
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Runner: processes
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Chooser: simple
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration suite_name = "public"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration cache_filename = "/Users/nicholas/cmsc330fall21/project4b/_build/default/test/public/oUnit-$(suite_name).cache"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration run_gc_full_major = "true"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration display = "true"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration results_style_1_X = "false"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration testdata_dir = "none"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration health_check_interval = "1."
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration verbose = "false"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration chooser = "simple"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration output_html_dir = "none"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration processes_kill_period = "5."
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration runner = "processes"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration shards = "2"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration processes_grace_period = "5."
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration log_encoding = "utf-8"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration output_junit_file = "none"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration ci = "false"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Configuration output_file = "/Users/nicholas/cmsc330fall21/project4b/_build/default/test/public/oUnit-$(suite_name)-$(shard_id).log"
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Using 2 workers maximum.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Starting worker number Nicholass-MacBook-Pro.local#01.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Worker Nicholass-MacBook-Pro.local#01 started.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Starting worker number Nicholass-MacBook-Pro.local#02.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Worker Nicholass-MacBook-Pro.local#02 started.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:1:public_mutop_pi_def, public:0:public_nothing.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Start test public:0:public_nothing.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:1:public_mutop_pi_def, public:0:public_nothing.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Start test public:1:public_mutop_pi_def.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:1:public_mutop_pi_def, public:0:public_nothing.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Test public:0:public_nothing is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:1:public_mutop_pi_def, public:0:public_nothing.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: End test public:0:public_nothing.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:1:public_mutop_pi_def, public:0:public_nothing.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Test public:1:public_mutop_pi_def is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:2:public_mutop_simple_def_and_let, public:1:public_mutop_pi_def.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: End test public:1:public_mutop_pi_def.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Start test public:2:public_mutop_simple_def_and_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:2:public_mutop_simple_def_and_let, public:1:public_mutop_pi_def.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:3:public_expr_add1, public:2:public_mutop_simple_def_and_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Start test public:3:public_expr_add1.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:3:public_expr_add1, public:2:public_mutop_simple_def_and_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Test public:2:public_mutop_simple_def_and_let is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:3:public_expr_add1, public:2:public_mutop_simple_def_and_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: End test public:2:public_mutop_simple_def_and_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:3:public_expr_add1, public:2:public_mutop_simple_def_and_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:4:public_expr_apply, public:3:public_expr_add1.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Start test public:4:public_expr_apply.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:4:public_expr_apply, public:3:public_expr_add1.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Test public:3:public_expr_add1 is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:4:public_expr_apply, public:3:public_expr_add1.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: End test public:3:public_expr_add1.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:4:public_expr_apply, public:3:public_expr_add1.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:5:public_expr_double_fun, public:4:public_expr_apply.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Start test public:5:public_expr_double_fun.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:5:public_expr_double_fun, public:4:public_expr_apply.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Test public:4:public_expr_apply is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:5:public_expr_double_fun, public:4:public_expr_apply.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: End test public:4:public_expr_apply.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:5:public_expr_double_fun, public:4:public_expr_apply.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:6:public_expr_let_if, public:5:public_expr_double_fun.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Test public:5:public_expr_double_fun is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Start test public:6:public_expr_let_if.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:6:public_expr_let_if, public:5:public_expr_double_fun.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: End test public:5:public_expr_double_fun.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:6:public_expr_let_if, public:5:public_expr_double_fun.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:7:public_expr_let_fun, public:6:public_expr_let_if.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Start test public:7:public_expr_let_fun.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:7:public_expr_let_fun, public:6:public_expr_let_if.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Test public:6:public_expr_let_if is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:7:public_expr_let_fun, public:6:public_expr_let_if.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: End test public:6:public_expr_let_if.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:7:public_expr_let_fun, public:6:public_expr_let_if.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:8:public_expr_minus_one, public:7:public_expr_let_fun.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Test public:7:public_expr_let_fun is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:8:public_expr_minus_one, public:7:public_expr_let_fun.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: End test public:7:public_expr_let_fun.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Start test public:8:public_expr_minus_one.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:8:public_expr_minus_one, public:7:public_expr_let_fun.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:9:public_expr_nested_let, public:8:public_expr_minus_one.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Start test public:9:public_expr_nested_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:9:public_expr_nested_let, public:8:public_expr_minus_one.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Test public:8:public_expr_minus_one is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:9:public_expr_nested_let, public:8:public_expr_minus_one.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: End test public:8:public_expr_minus_one.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:9:public_expr_nested_let, public:8:public_expr_minus_one.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Test public:9:public_expr_nested_let is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:10:public_expr_simple_equal, public:9:public_expr_nested_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: End test public:9:public_expr_nested_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:10:public_expr_simple_equal, public:9:public_expr_nested_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Start test public:10:public_expr_simple_equal.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:11:public_expr_simple_concat, public:10:public_expr_simple_equal.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Start test public:11:public_expr_simple_concat.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:11:public_expr_simple_concat, public:10:public_expr_simple_equal.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Test public:10:public_expr_simple_equal is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:11:public_expr_simple_concat, public:10:public_expr_simple_equal.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: End test public:10:public_expr_simple_equal.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:11:public_expr_simple_concat, public:10:public_expr_simple_equal.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Test public:11:public_expr_simple_concat is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:12:public_expr_simple_div, public:11:public_expr_simple_concat.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: End test public:11:public_expr_simple_concat.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:12:public_expr_simple_div, public:11:public_expr_simple_concat.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Start test public:12:public_expr_simple_div.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:13:public_expr_simple_mult, public:12:public_expr_simple_div.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Start test public:13:public_expr_simple_mult.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:13:public_expr_simple_mult, public:12:public_expr_simple_div.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Test public:12:public_expr_simple_div is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:13:public_expr_simple_mult, public:12:public_expr_simple_div.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: End test public:12:public_expr_simple_div.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Test public:13:public_expr_simple_mult is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:13:public_expr_simple_mult, public:12:public_expr_simple_div.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: End test public:13:public_expr_simple_mult.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:14:public_expr_simple_sub, public:13:public_expr_simple_mult.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:15:public_expr_simple_sum, public:14:public_expr_simple_sub.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Start test public:14:public_expr_simple_sub.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:15:public_expr_simple_sum, public:14:public_expr_simple_sub.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Start test public:15:public_expr_simple_sum.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:15:public_expr_simple_sum, public:14:public_expr_simple_sub.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Test public:14:public_expr_simple_sub is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:15:public_expr_simple_sum, public:14:public_expr_simple_sub.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: End test public:14:public_expr_simple_sub.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Test public:15:public_expr_simple_sum is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:15:public_expr_simple_sum, public:14:public_expr_simple_sub.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: End test public:15:public_expr_simple_sum.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:16:public_expr_single_and, public:15:public_expr_simple_sum.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:17:public_expr_single_bool, public:16:public_expr_single_and.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Start test public:16:public_expr_single_and.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:17:public_expr_single_bool, public:16:public_expr_single_and.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Start test public:17:public_expr_single_bool.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:17:public_expr_single_bool, public:16:public_expr_single_and.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Test public:16:public_expr_single_and is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:17:public_expr_single_bool, public:16:public_expr_single_and.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: End test public:16:public_expr_single_and.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Test public:17:public_expr_single_bool is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:17:public_expr_single_bool, public:16:public_expr_single_and.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: End test public:17:public_expr_single_bool.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:18:public_expr_single_fun, public:17:public_expr_single_bool.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:19:public_expr_single_if, public:18:public_expr_single_fun.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Start test public:18:public_expr_single_fun.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:19:public_expr_single_if, public:18:public_expr_single_fun.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Start test public:19:public_expr_single_if.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:19:public_expr_single_if, public:18:public_expr_single_fun.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Test public:18:public_expr_single_fun is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:19:public_expr_single_if, public:18:public_expr_single_fun.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: End test public:18:public_expr_single_fun.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Test public:19:public_expr_single_if is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:19:public_expr_single_if, public:18:public_expr_single_fun.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: End test public:19:public_expr_single_if.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:20:public_expr_single_let, public:19:public_expr_single_if.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:21:public_expr_single_notequal, public:20:public_expr_single_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Start test public:20:public_expr_single_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:21:public_expr_single_notequal, public:20:public_expr_single_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Start test public:21:public_expr_single_notequal.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:21:public_expr_single_notequal, public:20:public_expr_single_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Test public:20:public_expr_single_let is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:21:public_expr_single_notequal, public:20:public_expr_single_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: End test public:20:public_expr_single_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Test public:21:public_expr_single_notequal is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:21:public_expr_single_notequal, public:20:public_expr_single_let.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: End test public:21:public_expr_single_notequal.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:22:public_expr_single_not, public:21:public_expr_single_notequal.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:23:public_expr_single_number, public:22:public_expr_single_not.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Start test public:22:public_expr_single_not.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:23:public_expr_single_number, public:22:public_expr_single_not.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Start test public:23:public_expr_single_number.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:23:public_expr_single_number, public:22:public_expr_single_not.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Test public:22:public_expr_single_not is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:23:public_expr_single_number, public:22:public_expr_single_not.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: End test public:22:public_expr_single_not.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Test public:23:public_expr_single_number is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:23:public_expr_single_number, public:22:public_expr_single_not.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: End test public:23:public_expr_single_number.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:24:public_expr_single_or, public:23:public_expr_single_number.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:25:public_expr_single_string, public:24:public_expr_single_or.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Start test public:24:public_expr_single_or.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:25:public_expr_single_string, public:24:public_expr_single_or.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Start test public:25:public_expr_single_string.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:25:public_expr_single_string, public:24:public_expr_single_or.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Test public:24:public_expr_single_or is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:25:public_expr_single_string, public:24:public_expr_single_or.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: End test public:24:public_expr_single_or.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Test public:25:public_expr_single_string is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:25:public_expr_single_string, public:24:public_expr_single_or.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: End test public:25:public_expr_single_string.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:26:public_err_div_by_zero, public:25:public_expr_single_string.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:27:public_mutop_factorial, public:26:public_err_div_by_zero.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Start test public:26:public_err_div_by_zero.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Start test public:27:public_mutop_factorial.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:27:public_mutop_factorial, public:26:public_err_div_by_zero.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Test public:26:public_err_div_by_zero is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:27:public_mutop_factorial, public:26:public_err_div_by_zero.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: End test public:26:public_err_div_by_zero.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Test public:27:public_mutop_factorial is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:27:public_mutop_factorial, public:26:public_err_div_by_zero.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: End test public:27:public_mutop_factorial.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:28:public_mutop_nonempty_env, public:27:public_mutop_factorial.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Still 2 tests running : public:29:public_expr_shadow, public:28:public_mutop_nonempty_env.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:29:public_expr_shadow, public:28:public_mutop_nonempty_env.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Start test public:28:public_mutop_nonempty_env.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Start test public:29:public_expr_shadow.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Still 2 tests running : public:29:public_expr_shadow, public:28:public_mutop_nonempty_env.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:29:public_expr_shadow, public:28:public_mutop_nonempty_env.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: Test public:28:public_mutop_nonempty_env is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: Test public:29:public_expr_shadow is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Still 2 tests running : public:29:public_expr_shadow, public:28:public_mutop_nonempty_env.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:29:public_expr_shadow, public:28:public_mutop_nonempty_env.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#01 I: End test public:28:public_mutop_nonempty_env.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#02 I: End test public:29:public_expr_shadow.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Still 2 tests running : public:29:public_expr_shadow, public:28:public_mutop_nonempty_env.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 2 tests running: public:29:public_expr_shadow, public:28:public_mutop_nonempty_env.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: 0 tests running: .
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Worker Nicholass-MacBook-Pro.local#01 has ended.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Worker Nicholass-MacBook-Pro.local#02 has ended.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Used 2 worker during test execution.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Run 15 tests with shard Nicholass-MacBook-Pro.local#01.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Run 15 tests with shard Nicholass-MacBook-Pro.local#02.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Check health of shard Nicholass-MacBook-Pro.local#01, 1 times.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Check health of shard Nicholass-MacBook-Pro.local#02, 1 times.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: ==============
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Summary:
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:29:public_expr_shadow is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:28:public_mutop_nonempty_env is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:27:public_mutop_factorial is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:26:public_err_div_by_zero is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:25:public_expr_single_string is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:24:public_expr_single_or is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:23:public_expr_single_number is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:22:public_expr_single_not is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:21:public_expr_single_notequal is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:20:public_expr_single_let is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:19:public_expr_single_if is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:18:public_expr_single_fun is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:17:public_expr_single_bool is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:16:public_expr_single_and is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:15:public_expr_simple_sum is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:14:public_expr_simple_sub is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:13:public_expr_simple_mult is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:12:public_expr_simple_div is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:11:public_expr_simple_concat is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:10:public_expr_simple_equal is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:9:public_expr_nested_let is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:8:public_expr_minus_one is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:7:public_expr_let_fun is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:6:public_expr_let_if is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:5:public_expr_double_fun is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:4:public_expr_apply is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:3:public_expr_add1 is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:2:public_mutop_simple_def_and_let is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:1:public_mutop_pi_def is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Test public:0:public_nothing is successful.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Ran: 30 tests in: 0.11 seconds.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Cases: 30.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Tried: 30.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Errors: 0.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Failures: 0.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Skip: 0.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Todo: 0.
+2021-11-23T18:38:52+00:00 Nicholass-MacBook-Pro.local#00 I: Timeout: 0.
